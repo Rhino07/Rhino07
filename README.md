@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 🎓 Final-year student  
-💻 Full Stack MERN Developer & ML Enthusiast  
+💻 Full Stack MERN Developer & ML Engineer  
 ☁️ Hands-on with AWS & cloud fundamentals  
 📈 Currently upskilling through professional certifications  
 🤖 Exploring ML + Web App integration  
